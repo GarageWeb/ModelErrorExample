@@ -1,0 +1,11 @@
+C:\Users\mrfle\source\repos\ModelErrorExample\ModelErrorExample\bin\Debug\netcoreapp2.0\ModelErrorExample.deps.json
+C:\Users\mrfle\source\repos\ModelErrorExample\ModelErrorExample\bin\Debug\netcoreapp2.0\ModelErrorExample.runtimeconfig.json
+C:\Users\mrfle\source\repos\ModelErrorExample\ModelErrorExample\bin\Debug\netcoreapp2.0\ModelErrorExample.runtimeconfig.dev.json
+C:\Users\mrfle\source\repos\ModelErrorExample\ModelErrorExample\bin\Debug\netcoreapp2.0\ModelErrorExample.dll
+C:\Users\mrfle\source\repos\ModelErrorExample\ModelErrorExample\bin\Debug\netcoreapp2.0\ModelErrorExample.pdb
+C:\Users\mrfle\source\repos\ModelErrorExample\ModelErrorExample\obj\Debug\netcoreapp2.0\ModelErrorExample.csprojResolveAssemblyReference.cache
+C:\Users\mrfle\source\repos\ModelErrorExample\ModelErrorExample\obj\Debug\netcoreapp2.0\ModelErrorExample.csproj.CoreCompileInputs.cache
+C:\Users\mrfle\source\repos\ModelErrorExample\ModelErrorExample\obj\Debug\netcoreapp2.0\ModelErrorExample.AssemblyInfoInputs.cache
+C:\Users\mrfle\source\repos\ModelErrorExample\ModelErrorExample\obj\Debug\netcoreapp2.0\ModelErrorExample.AssemblyInfo.cs
+C:\Users\mrfle\source\repos\ModelErrorExample\ModelErrorExample\obj\Debug\netcoreapp2.0\ModelErrorExample.dll
+C:\Users\mrfle\source\repos\ModelErrorExample\ModelErrorExample\obj\Debug\netcoreapp2.0\ModelErrorExample.pdb
